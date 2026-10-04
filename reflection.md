@@ -54,5 +54,8 @@ During Streamlit "reruns", the entire script is re-executed from top to bottom e
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+I really liked that I kept track of all of the changes that I made just with comments here and there, which ultimately allowed me to look back for commit messages and potential reporting (if this were for a collaborative project, for example).
 - What is one thing you would do differently next time you work with AI on a coding task?
+One thing I forgot to do as I was coding (partly because the instructions on the CodePath page wasn't very clear) was multiple git commits after each bug fix. This would've also helped me when I looked back on the changes that I made in GitHub, making the transitions very clear.
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+This is the first time I've seen AI not be used minimally or not be blindly, heavily relied on through the project. Heavy reliance often comes with the ability to use critical thinking when making technical decisions or reading code, but I was pleasantly surprised with how in-control I felt when working with AI on this project.
